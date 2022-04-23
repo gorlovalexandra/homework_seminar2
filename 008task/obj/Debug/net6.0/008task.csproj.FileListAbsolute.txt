@@ -1,0 +1,16 @@
+C:\Users\catia\Desktop\seminar 2\008task\bin\Debug\net6.0\008task.exe
+C:\Users\catia\Desktop\seminar 2\008task\bin\Debug\net6.0\008task.deps.json
+C:\Users\catia\Desktop\seminar 2\008task\bin\Debug\net6.0\008task.runtimeconfig.json
+C:\Users\catia\Desktop\seminar 2\008task\bin\Debug\net6.0\008task.dll
+C:\Users\catia\Desktop\seminar 2\008task\bin\Debug\net6.0\ref\008task.dll
+C:\Users\catia\Desktop\seminar 2\008task\bin\Debug\net6.0\008task.pdb
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.GlobalUsings.g.cs
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.csproj.AssemblyReference.cache
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.AssemblyInfoInputs.cache
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.AssemblyInfo.cs
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.csproj.CoreCompileInputs.cache
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.dll
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\ref\008task.dll
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.pdb
+C:\Users\catia\Desktop\seminar 2\008task\obj\Debug\net6.0\008task.genruntimeconfig.cache
